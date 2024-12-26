@@ -1,4 +1,5 @@
 # MKPointsRecup 🧾
+### MKPointsRecup permet de récupérer les points de son permis B.
 ⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
 # Fonctionnalité 🧰
 - Ce plugin contient une config en .json situer dans `/Plugins/MKPlugins/mkpointsrecup.json`.
