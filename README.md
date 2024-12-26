@@ -1,5 +1,5 @@
 # MKPointsRecup 🧾
-⚠ Ce plugin ne peut-être réutiliser à des fins commercials ⚠
+⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
 # Fonctionnalité 🧰
 - Ce plugin contient une config en .json situer dans `/Plugins/MKPlugins/mkpointsrecup.json`.
 - Vous pouvez modifier la position du point dans la config (par défaut `x="296.0922", y="50.01", z="723.5128"`).
