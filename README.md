@@ -1,4 +1,5 @@
 # MKPointsRecup 🧾
+![banner](https://github.com/user-attachments/assets/16c4a4ff-88e9-4021-882b-d80842b699c5)
 ### MKPointsRecup permet de récupérer les points de son permis B.
 ⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
 # Fonctionnalité 🧰
